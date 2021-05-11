@@ -24,3 +24,6 @@ fun f(x) {
 
 文章中に'code'を入れる。
 **太字**、
+
+
+[Google](https://Google .com)
